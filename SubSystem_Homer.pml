@@ -12,6 +12,7 @@
         <File name="golf" src="behavior_1/golf.ogg" />
         <File name="choice_sentences_light" src="behavior_1/Aldebaran/choice_sentences_light.xml" />
         <File name="choice_sentences" src="behavior_1/Aldebaran/choice_sentences.xml" />
+        <File name="SubSystem_Homer" src="SubSystem_Homer.zip" />
     </Resources>
     <Topics>
         <Topic name="ExampleDialog_enu" src="behavior_1/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />
